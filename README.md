@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
 **5° E ÚLTIMA AULA DA IMERSÃO FRONT-END**
 
         Nessa aula, foi criado um projeto React e junto com os professores foi desenvolvido o componente 'Header'. 
