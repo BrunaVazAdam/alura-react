@@ -1,0 +1,13 @@
+#root {
+  display: flex;
+}
+
+body {
+  background-color: black;
+  font-family: var(--font-dm-sans);
+
+}
+
+.icon-fa {
+  margin-right: 10px;
+}
