@@ -4,9 +4,11 @@
 
 **5° E ÚLTIMA AULA DA IMERSÃO FRONT-END**
 
-        Nessa aula, foi criado um projeto React e junto com os professores foi desenvolvido o componente 'Header'. 
+        Nessa aula, foi criado um projeto React e junto com os professores foi desenvolvido o 
+        componente 'Header'. 
         Foi deixado como desafio a adaptação do projeto anterior para o projeto React.
-        Desenvolvi os componentes "Sidebar", "Main", que inclui os componentes "Header" e "Playlist" e também o componente "Footer".
+        Desenvolvi os componentes "Sidebar", "Main", que inclui os componentes "Header" e "Playlist" e
+        também o componente "Footer".
         Adaptei os scripts de busca (search) e de saudação (greeting).
 
 
@@ -18,3 +20,8 @@
 **COMANDO PARA RODAR A API JSON**
 
 `json-server --watch api-artists/artists.json --port 3000` 
+
+https://github.com/user-attachments/assets/e792313b-d65a-48cf-9900-33fb676d7a72
+
+
+
